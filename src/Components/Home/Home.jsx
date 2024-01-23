@@ -11,7 +11,7 @@ import Page8 from './Page8/page8'
 
 const Home = () => {
   return (
-    <div className=' bg-stone-100 h-[200vh]'>
+    <div className=' bg-stone-100 h-[760vh] overflow-x-hidden overflow-y-hidden'>
     
     <Pageone/>
     <Running/>

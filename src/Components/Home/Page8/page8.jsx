@@ -14,7 +14,7 @@ const page8 = () => {
     console.log(move)
    
   return (
-    <div className='h-[90vh] bg-white '>
+    <div className='h-[90vh]  bg-white '>
 
         <div className=' flex h-[80%] items-center overflow-x-hidden overflow-y-hidden  '>
             <div className='translate-x-[190px]'><p className='text-[30px]'>Case studies</p>
