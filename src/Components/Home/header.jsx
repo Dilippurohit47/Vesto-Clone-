@@ -14,7 +14,7 @@ const header = () => {
 
  useEffect(() =>{
 
-  alert("please make a page size 90% already it is  100%")
+  alert("please make a page size 90% already it is  100% beacuse when i made project by mistakenly it became 90% and i make full project so when it get 100% some layouts wroks unexpectedly --press ctrl - ")
 
  },[])
 
