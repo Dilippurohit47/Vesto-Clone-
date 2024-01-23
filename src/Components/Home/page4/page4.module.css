@@ -1,0 +1,16 @@
+.maindiv{
+    height: calc(100vh - 80px);
+     font-family: Twklausanne,Arial,sans-serif;
+}
+
+.greendiv{
+   background-color:  #0B3721;
+}
+
+.linecolor{
+   background-color: #8D7037;
+}
+
+.inputcolor{
+   background-color: #325745;
+}

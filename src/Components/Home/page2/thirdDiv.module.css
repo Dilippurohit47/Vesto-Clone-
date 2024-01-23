@@ -1,0 +1,42 @@
+    .container{
+
+
+    }
+
+    .rotateCircle {
+        animation: rotate 6s linear infinite forwards; /* Infinite rotation for 6 seconds per cycle */
+      }
+      
+      @keyframes rotate {
+        0% {
+          transform: rotate(0);
+        }
+        11.1% {
+          transform: rotate(33deg); /* Rotate to 33 degrees */
+        }
+        22.2% {
+          transform: rotate(66deg); /* Rotate to 66 degrees */
+        }
+        33.3% {
+          transform: rotate(99deg); /* Rotate to 99 degrees */
+        }
+        44.4% {
+          transform: rotate(132deg); /* Rotate to 132 degrees */
+        }
+        55.5% {
+          transform: rotate(165deg); /* Rotate to 165 degrees */
+        }
+        66.6% {
+          transform: rotate(198deg); /* Rotate to 198 degrees */
+        }
+        77.7% {
+          transform: rotate(231deg); /* Rotate to 231 degrees */
+        }
+        88.8% {
+          transform: rotate(264deg); /* Rotate to 264 degrees */
+        }
+        100% {
+          transform: rotate(297deg); /* Rotate to 297 degrees */
+        }
+      }
+      
